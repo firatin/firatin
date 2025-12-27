@@ -8,10 +8,10 @@ Passionate about **.NET, Web Development, Cloud & Data**, constantly exploring n
 ## 💻 Tech Stack
 
 **Backend:** C#, .NET Core, ASP.NET, ADO.NET, Web API, SignalR  
-**Frontend:** HTML, CSS, JavaScript, AJAX, React (basics)  
-**Database:** SQL Server, PostgreSQL, Entity Framework  
+**Frontend:** HTML, CSS, JavaScript, JQuery, React, Angular  
+**Database:** SQL Server, PostgreSQL, Dapper  
 **Cloud & DevOps:** AWS (Lambda, EC2, EKS), CI/CD, Azure (AppInsights, KeyVault)  
-**Other Tools:** Git, Docker, Postman, Playwright (E2E testing)  
+**Other Tools:** Git, Docker, Postman
 
 ---
 
