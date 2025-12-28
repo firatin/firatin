@@ -36,7 +36,6 @@ ASP.NET MVC project examples with layered architecture
 ---
 
 ## 🌱 Currently Learning
-- Advanced .NET web architecture (microservices & composable commerce)  
 - Cloud-native applications (AWS/Azure)  
 - Modern frontend frameworks & state management  
 
