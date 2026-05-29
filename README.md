@@ -1,49 +1,39 @@
 # 👋 Hi, I'm Firat
 
-**Software Engineer & Database Specialist** | Melbourne, Australia 🇦🇺  
-Passionate about **.NET, Web Development, Cloud & Data**, constantly exploring new technologies and building clean, scalable systems.
+**Software Engineer & Database Specialist** | Melbourne, Australia
+I build and modernise **business‑critical .NET and SQL Server systems** with a focus on clean architecture and performance.
 
 ---
 
 ## 💻 Tech Stack
 
-**Backend:** C#, .NET Core, ASP.NET, ADO.NET, Web API, SignalR  
-**Frontend:** HTML, CSS, JavaScript, JQuery, React, Angular  
-**Database:** SQL Server, PostgreSQL, Dapper  
-**Cloud & DevOps:** AWS (Lambda, EC2, EKS), CI/CD, Azure (AppInsights, KeyVault)  
-**Other Tools:** Git, Docker, Postman
+**Backend:** C#, .NET / .NET Core, ASP.NET, Web API, WPF, Windows Forms, SignalR, REST & SOAP, ML.NET  
+**Frontend:** HTML5, CSS3, JavaScript, jQuery, Angular, React, Bootstrap, Razor  
+**Database:** SQL Server (T‑SQL, stored procedures, normalisation, performance tuning), Azure SQL, PostgreSQL, Dapper  
+**Cloud & DevOps:** Azure, AWS, CI/CD, GitLab, Bitbucket, TFS, Jira  
+**Other:** OOP, SOLID, Design Patterns, CMS, CRM, E‑commerce, SEO, Git, Docker, Postman
 
 ---
 
-## 🚀 Featured Projects
+### 🔹 Logiwa WMS
+High‑performance WMS features built end‑to‑end with a focus on speed and scalability.
 
-### 🔹 E-Commerce Platform (2014)
-Monolithic ASP.NET/ADO.NET platform with:  
-- Product, inventory & order management  
-- Customer management & embedded CRM features  
-- Payment & POS integration  
-- Content & banner management  
-[Repo link](https://github.com/firatin/e-commerce)  
+### 🔹 Alternatif Bank
+Enterprise .NET applications for critical banking modules in a security‑sensitive environment.
 
-### 🔹 GraphQL-HotChocolate
-Modern C# GraphQL API demo project  
-[Repo link](https://github.com/firatin/GraphQL-HotChocolate)  
-
-### 🔹 CoreMVC
-ASP.NET MVC project examples with layered architecture  
-[Repo link](https://github.com/firatin/CoreMVC)  
+### 🔹 Dekopasaj
+API, database and frontend improvements for a high‑traffic e‑commerce marketplace.
 
 ---
 
 ## 🌱 Currently Learning
-- Cloud-native applications (AWS/Azure)  
-- Modern frontend frameworks & state management  
+
+- Cloud‑native architectures on AWS & Azure
+- AI‑assisted development and automation
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Firat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/firatin)  
-[![GitHub](https://img.shields.io/badge/GitHub-firatin-black?style=flat&logo=github)](https://github.com/firatin)
 
----
-
+[LinkedIn](https://www.linkedin.com/in/firatin)  
+[GitHub](https://github.com/firatin)
