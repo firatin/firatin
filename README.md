@@ -1,8 +1,16 @@
 # 👋 Hi, I'm Firat
 
 **Software Engineer & Database Specialist** | Melbourne, Australia
-I build and modernise **business‑critical .NET and SQL Server systems** with a focus on clean architecture and performance.
-
+---
+Software Engineer and Database Specialist with 11+ years of experience building and maintaining 
+business‑critical systems in banking, logistics, e‑commerce, education and related domains. 
+I design and deliver enterprise web applications using .Net and SQL Server, and have built 
+applications in SaaS, CMS, CRM and POS domains. 
+I specialise in modernising legacy architectures, building high‑performance APIs, and optimising 
+large‑scale SQL Server databases for low‑latency queries with a strong focus on clean architecture 
+and scalable engineering practices. 
+I enjoy solving complex problems, keeping code clean and maintainable, and learning new tools 
+(including AI‑assisted development) to work smarter and deliver better outcomes.
 ---
 
 ## 💻 Tech Stack
