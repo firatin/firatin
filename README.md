@@ -4,10 +4,10 @@
 
 <p>
   Software Engineer and Database Specialist with 11+ years of experience building and maintaining
-  business‑critical systems in <strong>banking, logistics, e‑commerce and education</strong>.
+  business‑critical systems in <strong>banking, logistics, e‑commerce, education and wms</strong>.
 </p>
 <p>
-  I design and deliver enterprise web applications using <strong>.NET</strong> and <strong>SQL Server</strong>, <strong>Javascript Libraries</strong>
+ I design and deliver enterprise web applications using <strong>.NET</strong>, <strong>SQL Server</strong>, and <strong>JavaScript libraries</strong>.
   and I have built my experience in SaaS, CRM, ERP, B2B and B2C e-commerce, WMS, education, delivery systems and POS domains.
 </p>
 <p>
