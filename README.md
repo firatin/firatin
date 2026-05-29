@@ -2,22 +2,42 @@
 
 **Software Engineer & Database Specialist** | Melbourne, Australia  
 
-Software Engineer and Database Specialist with 11+ years of experience building and maintaining business‑critical systems in banking, logistics, e‑commerce, education and related domains.  
-I design and deliver enterprise web applications using .NET and SQL Server, and have built applications in SaaS, CMS, CRM and POS domains.  
-I specialise in modernising legacy architectures, building high‑performance APIs, and optimising large‑scale SQL Server databases for low‑latency queries with a strong focus on clean architecture and scalable engineering practices.  
-I enjoy solving complex problems, keeping code clean and maintainable, and learning new tools (including AI‑assisted development) to work smarter and deliver better outcomes.
+<p>
+  Software Engineer and Database Specialist with 11+ years of experience building and maintaining
+  business‑critical systems in <strong>banking, logistics, e‑commerce and education</strong>.
+</p>
+<p>
+  I design and deliver enterprise web applications using <strong>.NET</strong> and <strong>SQL Server</strong>,
+  and have built applications in SaaS, CMS, CRM and POS domains.
+</p>
+<p>
+  I specialise in modernising legacy architectures, building high‑performance APIs, and optimising
+  large‑scale SQL Server databases for low‑latency queries with a focus on clean architecture.
+</p>
+<p>
+  I enjoy solving complex problems, keeping code clean and maintainable, and using AI‑assisted development
+  to work smarter and deliver better outcomes.
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-**Backend:** C#, .NET / .NET Core, ASP.NET, Web API, WPF, Windows Forms, SignalR, REST & SOAP, ML.NET  
-**Frontend:** HTML5, CSS3, JavaScript, jQuery, Angular, React, Bootstrap, Razor  
-**Database:** SQL Server (T‑SQL, stored procedures, normalisation, performance tuning), Azure SQL, PostgreSQL, Dapper  
-**Cloud & DevOps:** Azure, AWS, CI/CD, GitLab, Bitbucket, TFS, Jira  
-**Other:** OOP, SOLID, Design Patterns, CMS, CRM, E‑commerce, SEO, Git, Docker, Postman
+<p>
+  <strong>Backend:</strong> C#, .NET / .NET Core, ASP.NET, Web API, WPF, Windows Forms, SignalR, REST &amp; SOAP, ML.NET  
+  <br />
+  <strong>Frontend:</strong> HTML5, CSS3, JavaScript, jQuery, Angular, React, Bootstrap, Razor  
+  <br />
+  <strong>Database:</strong> SQL Server (T‑SQL, stored procedures, normalisation, performance tuning), Azure SQL, PostgreSQL, Dapper  
+  <br />
+  <strong>Cloud &amp; DevOps:</strong> Azure, AWS, CI/CD, GitLab, Bitbucket, TFS, Jira  
+  <br />
+  <strong>Other:</strong> OOP, SOLID, Design Patterns, CMS, CRM, E‑commerce, SEO, Git, Docker, Postman
+</p>
 
 ---
+
+## 🚀 Experience Highlights
 
 ### 🔹 Logiwa WMS
 High‑performance WMS features built end‑to‑end with a focus on speed and scalability.
@@ -32,8 +52,10 @@ API, database and frontend improvements for a high‑traffic e‑commerce market
 
 ## 🌱 Currently Learning
 
-- Cloud‑native architectures on AWS & Azure  
-- AI‑assisted development and automation  
+<ul>
+  <li>Cloud‑native architectures on AWS &amp; Azure</li>
+  <li>AI‑assisted development and automation</li>
+</ul>
 
 ---
 
