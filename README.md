@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Firat
+# 👋 {"Hello World"}, I'm Firat
 
 **Software Engineer & Database Specialist** | Melbourne, Australia  
 
