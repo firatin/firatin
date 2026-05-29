@@ -8,7 +8,7 @@
 </p>
 <p>
   I design and deliver enterprise web applications using <strong>.NET</strong> and <strong>SQL Server</strong>,
-  and have built applications in SaaS, CMS, CRM and POS domains.
+  and I have built my experience in SaaS, CRM, ERP, B2B and B2C e-commerce, WMS, education, delivery systems and POS domains.
 </p>
 <p>
   I specialise in modernising legacy architectures, building high‑performance APIs, and optimising
