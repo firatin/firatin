@@ -61,5 +61,4 @@ API, database and frontend improvements for a high‑traffic e‑commerce market
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Firat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/firatin)  
-[![GitHub](https://img.shields.io/badge/GitHub-firatin-black?style=flat&logo=github)](https://github.com/firatin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Firat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/firatin)  & [![GitHub](https://img.shields.io/badge/GitHub-firatin-black?style=flat&logo=github)](https://github.com/firatin)
