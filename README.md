@@ -45,7 +45,21 @@ High‑performance WMS features built end‑to‑end with a focus on speed and s
 Enterprise .NET applications for critical banking modules in a security‑sensitive environment.
 
 ### 🔹 Dekopasaj
-API, database and frontend improvements for a high‑traffic e‑commerce marketplace.
+API, Web Projects, Admin Panel, Database and other improvements for a high‑traffic e‑commerce marketplace.
+
+### 🔹 MetropolCard
+Worked on APIs, EftPOS systems, and database infrastructure for corporate meal card
+services. Improved user experience and system reliability during peak transaction hours through
+performance tuning.
+
+### 🔹 1v1y.com - Perabayt Tech
+Developed e-commerce platform features. Optimized data retrieval and search performance.
+
+### 🔹 AcerPro
+Contributed to Insurance Services project. Managed requirements analysis and applied software design patterns for scalable integration modules with SDLC.
+
+### 🔹 PolynomTech
+Delivered the 'Yakin Kampus' and 'Yakin Kampus Enterprise' web projects, developing the full-stack architecture including admin panels, frontend, backend, and database management.
 
 ---
 
